@@ -39,7 +39,7 @@ loadingRing.Visible = true
 tween:Play()
 wait(1)
 
-local playerss = {"jutey_pro","name"}
+local playerss = {"jutey_pro","pookmaster21345"}
 
 for _, v in pairs(game.Players:GetChildren()) do
 
